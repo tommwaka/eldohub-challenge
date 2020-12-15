@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eldohub-challenge/static/css/main.bc114cb1.chunk.css",
+    "main.js": "/eldohub-challenge/static/js/main.da34fefc.chunk.js",
+    "main.js.map": "/eldohub-challenge/static/js/main.da34fefc.chunk.js.map",
+    "runtime-main.js": "/eldohub-challenge/static/js/runtime-main.9005d9ca.js",
+    "runtime-main.js.map": "/eldohub-challenge/static/js/runtime-main.9005d9ca.js.map",
+    "static/js/2.95ca709c.chunk.js": "/eldohub-challenge/static/js/2.95ca709c.chunk.js",
+    "static/js/2.95ca709c.chunk.js.map": "/eldohub-challenge/static/js/2.95ca709c.chunk.js.map",
+    "index.html": "/eldohub-challenge/index.html",
+    "static/css/main.bc114cb1.chunk.css.map": "/eldohub-challenge/static/css/main.bc114cb1.chunk.css.map",
+    "static/js/2.95ca709c.chunk.js.LICENSE.txt": "/eldohub-challenge/static/js/2.95ca709c.chunk.js.LICENSE.txt",
+    "static/media/chuck.a0daa489.png": "/eldohub-challenge/static/media/chuck.a0daa489.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9005d9ca.js",
+    "static/js/2.95ca709c.chunk.js",
+    "static/css/main.bc114cb1.chunk.css",
+    "static/js/main.da34fefc.chunk.js"
+  ]
+}
